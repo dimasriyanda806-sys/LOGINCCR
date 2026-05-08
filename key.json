@@ -50,6 +50,13 @@
       "isBanned": false,
       "banReason": "Nakal",
       "userRank": "Supreme User"
+    },
+    "CCR": {
+      "hwid": "218250A51DAC6E65",
+      "expireDate": "2026-05-15",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
