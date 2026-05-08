@@ -41,7 +41,7 @@
     "DPMods-WQY3FH": {
       "hwid": "RESET",
       "expireDate": "Life",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     },
